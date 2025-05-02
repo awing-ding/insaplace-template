@@ -1,0 +1,13 @@
+
+{
+"contact": "Loumio",
+"templates": [
+{
+"name": "fire",
+"sources": ["https://raw.githubusercontent.com/awing-ding/insaplace-template/master/pixil-frame-1.png"],
+"x": 96,
+"y": 37
+}
+]
+}
+
